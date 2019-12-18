@@ -44,7 +44,7 @@ All of our active repositories can be found on our [GitHub oscghana`organization
 
 * [ ] look for commits _after_ any of these, in either;
 
-    * [ ] master branch of repository at O.S.C.A,
+    * [ ] master branch of repository at oscghana,
     * [ ] any other branches,
     * [ ] any other forks,
 
@@ -71,12 +71,12 @@ See [complete help in GitHub](https://help.github.com/articles/fork-a-repo).
 ### Cloning
 
 You should clone your fork. This step is needed only once.
-Using [sugar](https://github.com/oscommunityafrica/docs) as example;
+Using [try](https://github.com/oscghana/docs) as example;
 
 ```
-git clone git@github.com:YOUR-NAME/sugar.git
+git clone git@github.com:YOUR-NAME/try.git
 cd docs
-git remote add upstream https://github.com/oscommunityafrica.git
+git remote add upstream https://github.com/oscghana.git
 git fetch upstream
 ```
 
