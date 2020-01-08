@@ -94,7 +94,7 @@ Your BRANCH-NAME can be anything, other than master.  The scope is your forked r
 
 Change files, and commit.  Commit messages are kept by git, and are used later when problems are being solved.  When writing a commit message;
 
-1. start with a one line summary of the change;
+1. start with one line summary of the change;
 2. leave a blank line after the summary;
 3. explain the problem that is solved, unless the summary makes it obvious;
 4. when the problem was introduced by a previous commit, mention the hash;
